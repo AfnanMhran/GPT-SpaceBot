@@ -165,7 +165,7 @@ body {
 .chatbox .incoming p {
 	color: #fff;
 	border-radius: 10px 10px 10px 0;
-	background: rgb(13, 13, 13);
+	background:  rgb(31, 64, 96);
 }
 
 .chatbox .incoming span {

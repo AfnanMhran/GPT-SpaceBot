@@ -6,7 +6,7 @@ const chatbotCloseBtn = document.querySelector(".close-btn")
 
 
 let userMessage;
-let API_KEY = "TODO";
+let API_KEY = "TODO (Add your openAI API KEY)";
 let role ="You are an intelligent bot with a great knowledge about space, you have the knowledge about the astronomy, space exploration, astronautics, earth and solar system ";
 const inputInitHeight = chatInput.scrollHeight;
 
